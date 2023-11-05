@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+可能第一步是让朋友们有使用GitHub的能力和习惯。
+
 <!--
 
 **Here are some ideas to get you started:**
