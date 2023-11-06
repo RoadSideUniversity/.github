@@ -2,6 +2,7 @@
 
 可能第一步是让朋友们有使用GitHub的能力和习惯。
 这一建议非常好， 已经在根目录下建立了一个共同学习的目录 GitHub101， 请各位在GitHub101下自建子目录，请清晰命名，开放式分享。
+各位同学可以follow，创建issue，或者创建discussion
 <!--
 
 **Here are some ideas to get you started:**
