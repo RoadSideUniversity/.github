@@ -1,5 +1,5 @@
 ## Hi there 👋
-各位同学可以follow，创建issue，或者创建discussion， 建议以discusison开展讨论
+各位同学可以follow，或者创建discussion开展讨论。 欢迎加入筹备组
 
 这一建议非常好， 已经在根目录下建立了一个共同学习的目录101， 请各位在101下自建子目录，请清晰命名 例如 GitHub101，开放式分享。
 
