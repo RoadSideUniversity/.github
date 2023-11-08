@@ -1,5 +1,7 @@
 ## Hi there 👋
-Github 101/GitHub 新手简介.md
+Github 101/GitHub 新手简介.md 
+
+https://docs.github.com/zh/get-started/quickstart
 
 各位同学可以follow，或者创建discussion开展讨论。 欢迎加入筹备组
 
