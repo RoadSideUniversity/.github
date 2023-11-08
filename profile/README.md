@@ -1,5 +1,5 @@
 ## Hi there 👋
-介绍给同学们一个简单粗暴的学习窗口 https://github.com/apps/github-universe-2023
+介绍给同学们一个简单粗暴的学习窗口 https://githubuniverse.com
 
 Github 101/GitHub 新手简介.md 
 
