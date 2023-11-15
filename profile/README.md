@@ -1,4 +1,7 @@
 ## Hi there 👋
+露天学堂ClubHouse2023Nov
+https://github.com/RoadSideUniversity/ClubHouse2023Nov
+
 介绍给同学们一个简单粗暴的学习窗口 https://githubuniverse.com
 
 Github 101/GitHub 新手简介.md 
