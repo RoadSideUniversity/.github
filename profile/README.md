@@ -1,6 +1,6 @@
 ## Hi there 👋
-露天学堂ClubHouse2023
-https://github.com/RoadSideUniversity/ClubHouse2023
+露天学堂ClubHouse2024
+https://github.com/RoadSideUniversity/ClubHouse2024
 
 介绍给同学们一个简单粗暴的学习窗口 https://githubuniverse.com
 
