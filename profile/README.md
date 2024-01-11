@@ -1,4 +1,6 @@
 ## Hi there 👋
+路边大学网页第一版草稿2024.1.11上线，烦请各位指正 https://roadsideuniversity.github.io/RSU/
+
 露天学堂ClubHouse2024
 https://github.com/RoadSideUniversity/ClubHouse2024
 
